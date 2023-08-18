@@ -109,7 +109,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                      );
                    });
 
-                   print('could not signup here $e');
+                   print('could not signup here or there $e');
                  }
                },),
 
