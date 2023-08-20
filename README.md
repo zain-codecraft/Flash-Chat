@@ -1,6 +1,6 @@
 # Flash-Chat
 A flutterxfirbase group chat app. 
-A flutter app that that in which user can chat with eachother.
+A flutter app that in which user can chat with eachother.
 The user can either create there account with signup or login to there account.
 The front end is only  designed with flutter. 
 The backend processes such as signup or login is handled with firebase Auth.
